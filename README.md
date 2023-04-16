@@ -7,6 +7,7 @@
 *  Silahkan bergabung untuk mendapatkan SC yang lebih menarik lainnya:
 *   [YouTube](https://youtube.com/@KutuMoba)
 *   [Grub Telegram](https://t.me/kutu_Moba57)
+*   [Donasi](https://saweria.co/KutuMoba57)
 *  =====================================================
 *
 # install module pendukung
