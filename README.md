@@ -10,10 +10,29 @@
 *   [Donasi](https://saweria.co/KutuMoba57)
 *  =====================================================
 *
-# install module pendukung
+# 
+# install
+```
+pkg uodate && pkg upgrade
+```
+```
+pkg install git
+```
+```
+pkg install python
+```
+```
+pkg install python2
+```
 ```
 pip install requests
 ``` 
+```
+git clone https://github.com/KutuMobaa/spamWa
+```
+```
+cd spamWa
+```
 * Jalankan program dengan
 ```
 python spam.py
